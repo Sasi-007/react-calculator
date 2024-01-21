@@ -1,0 +1,11 @@
+.mini-screen {
+  height: 50px;
+  width: 100%;
+  padding: 0 10px;
+  background-color: #4357692d;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: #ffffff99;
+  box-sizing: border-box;
+}
