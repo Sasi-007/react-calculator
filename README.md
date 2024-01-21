@@ -1,3 +1,7 @@
+# Screenshots
+![image](https://github.com/Sasi-007/react-calculator/assets/42794655/57501093-a5e9-4bc8-b207-28232a9b2c4c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
